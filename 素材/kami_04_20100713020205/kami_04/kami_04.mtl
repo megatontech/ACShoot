@@ -1,0 +1,30 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl 0_kami_back_04
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd kami_back_04_04.bmp
+#
+newmtl 0_kami_front_04
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd kami_front_04_04.bmp
+#
+newmtl side_04
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd kami_side_04_04.bmp
+#
+# EOF
