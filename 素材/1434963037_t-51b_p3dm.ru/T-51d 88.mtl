@@ -1,0 +1,54 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Material_000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 68.5935
+map_Kd t-51b powerarmor.dds
+
+newmtl Material_000905
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 70
+map_Kd t-51b powerarmor.dds
+
+newmtl Material_000e4b
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 70
+map_Kd t-51b powerarmor.dds
+
+newmtl Material_000f0e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 70
+map_Kd t-51b powerarmor.dds
+
+newmtl Material_001073
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 70
+map_Kd t-51b powerarmor.dds
+
+newmtl Material_0012ef
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 70
+map_Kd t-51b powerarmor.dds
