@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chapter 0 - Intro and Menus/0-01 Title Card 1.unity
+  isLoaded: 1
+  isActive: 1
